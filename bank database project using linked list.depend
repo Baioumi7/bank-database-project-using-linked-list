@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1517507213 source:c:\users\mohamed zaghlol\desktop\projects\bank database project using linked list\bank database project linked list.c
+	<stdio.h>
+	<stdlib.h>
+
+1517506063 source:c:\users\mohamed zaghlol\desktop\projects\bank database project using linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577597413 source:e:\3alamny academy\data structure and algorithms\data structure\data structure tasks\bank database project using linked list\bank database project linked list.c
+	"bank database project.h"
+
+1517508056 e:\3alamny academy\data structure and algorithms\data structure\data structure tasks\bank database project using linked list\bank database project.h
+	<stdio.h>
+	<stdlib.h>
+
+1577597418 source:e:\3alamny academy\data structure and algorithms\data structure\data structure tasks\bank database project using linked list\main.c
+	"bank database project.h"
+
